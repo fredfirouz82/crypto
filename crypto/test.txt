@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CoinX Cryptocurrency</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+            text-align: center;
+        }
+        p {
+            line-height: 1.6;
+            color: #666;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to CoinX</h1>
+        <p>CoinX is a new decentralized cryptocurrency aimed at offering secure and fast transactions with low fees.</p>
+        
+        <h2>Why Choose CoinX?</h2>
+        <ul>
+            <li><strong>Security:</strong> Built on blockchain technology with advanced encryption.</li>
+            <li><strong>Speed:</strong> Transactions are processed in seconds.</li>
+            <li><strong>Low Fees:</strong> Enjoy minimal transaction fees compared to traditional cryptocurrencies.</li>
+            <li><strong>Decentralization:</strong> No central authority, giving power back to the users.</li>
+        </ul>
+        
+        <h2>How to Get Started</h2>
+        <p>Getting started with CoinX is easy:</p>
+        <ol>
+            <li>Download the CoinX wallet from <a href="https://www.example.com/wallet">our website</a>.</li>
+            <li>Create your secure wallet.</li>
+            <li>Buy CoinX from an exchange or earn through mining.</li>
+        </ol>
+        
+        <h2>Stay Updated</h2>
+        <p>Follow us on social media for the latest updates:</p>
+        <ul>
+            <li><a href="https://twitter.com/CoinX">X (formerly Twitter)</a></li>
+            <li><a href="https://www.cryptobasehub.com/blog">Our Blog</a></li>
+        </ul>
+    </div>
+</body>
+</html>
